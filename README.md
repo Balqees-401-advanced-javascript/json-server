@@ -4,7 +4,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/Balqees-401-advanced-javascript/json-server/pull/1)
 - [swagger](https://app.swaggerhub.com/apis/Balqeesqasem/JsonLab6/0.1#)
 
 #### How to initialize/run your application 
