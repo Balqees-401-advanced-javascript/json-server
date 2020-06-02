@@ -11,3 +11,11 @@
       
       -  nodemon
 
+#### Test 
+     
+     - npm test
+     - npm test filename.test.js
+
+#### UML
+
+[UML]();
