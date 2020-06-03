@@ -30,7 +30,7 @@ function getProductById(req,res,next){
 }   
 
 function postProuduct(req , res, next){
-  // console.log('hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii');
+
   product.post(req.body)
     .then (result =>{
       // console.log(result);
